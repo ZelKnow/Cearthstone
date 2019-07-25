@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[hello_world]]></title>
     <url>%2F2019%2F07%2F25%2Fhello-world-1%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[Testing Main titleHere is a text. Secondary titleHere is a text. Third titleHere is a text. Quote Something Quote Something Note TestWelcome to NGA! Sorry, your browser does not support the video tag. button}]]></content>
       <categories>
         <category>Temp</category>
       </categories>
@@ -11,10 +11,5 @@
         <tag>Test</tag>
         <tag>Others</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F07%2F23%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
